@@ -7,6 +7,9 @@
 | Structural | Class/Object Assembly    | Adapter, Decorator, Facade    |
 | Behavioral | Object Interaction       | Observer, Strategy, Iterator  |
 
+### Useful Links
+https://refactoring.guru/design-patterns/singleton
+
 # Creational 
 
 ## Singleton
